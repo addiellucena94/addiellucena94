@@ -1,12 +1,12 @@
 ### Hi there 👋
-##Nice to meet you!
-##I'm Addiel Lucena
+###Nice to meet you!
+###I'm Addiel Lucena
 
 Based in Cuba, I'm a FullStack Developer passionate about building accessible web apps that users love.
 
 📫 You find me in:
-[LinkedIn](https://www.linkedin.com/in/addiellucena94)
-[X](https://www.twitter.com/addiellucena94)
+- [LinkedIn](https://www.linkedin.com/in/addiellucena94)
+- [X](https://www.twitter.com/addiellucena94)
 
 <!--
 - 🔭 I’m currently working on ...
