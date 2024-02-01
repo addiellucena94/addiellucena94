@@ -1,6 +1,6 @@
 Hi there 👋
 Nice to meet you!
-I'm Addiel Lucena
+** I'm Addiel Lucena **
 
 Based in Cuba, I'm a FullStack Developer passionate about building accessible web apps that users love.
 
