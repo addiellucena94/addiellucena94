@@ -7,8 +7,9 @@ Nice to meet you!
 Based in Cuba, I'm a FullStack Developer passionate about building accessible web apps that users love.
 
 📫 You find me in:
-- [LinkedIn](https://www.linkedin.com/in/addiellucena94)
-- [X](https://www.twitter.com/addiellucena94)
+-👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/addiellucena94)
+-🐦 [X](https://www.twitter.com/addiellucena94)
+-💻 [FrontEnd Mentor](https://www.frontendmentor.io/profile/addiellucena94)
 
 <!--
 - 🔭 I’m currently working on ...
