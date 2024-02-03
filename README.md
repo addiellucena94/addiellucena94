@@ -6,11 +6,21 @@ Nice to meet you!
 
 Based in Cuba, I'm a FullStack Developer passionate about building accessible web apps that users love.
 
+⚒️ Skills
+- HTML
+- CSS
+- TAILWIND CSS
+- JAVASCRIPT
+- REACT
+- NODE JS
+- PYTHON
+- FAST API
+
 📫 You find me in:
 
 -👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/addiellucena94)
 
--🐦 [X](https://www.twitter.com/addiellucena94).
+-🐦 [X](https://www.twitter.com/addiellucena94)
 
 -💻 [FrontEnd Mentor](https://www.frontendmentor.io/profile/addiellucena94)
 
