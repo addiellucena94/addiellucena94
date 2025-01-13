@@ -9,17 +9,25 @@ Full Stack Developer with 3+ years of experience creating scalable web applicati
 
 # Technical Skills
 **Frontend:**
+
 HTML5, CSS3, JavaScript (ES6+), React, Next.js, Astro JS
 Tailwind CSS, Responsive Design (Mobile-first), Figma
+
 **Backend:**
+
 Node.js, Express.js, PostgreSQL, MongoDB, Redis
 APIs RESTful, GraphQL, JWT, OAuth
+
 **DevOps:**
+
 Docker, AWS
+
 Version Control:
+
 Git, GitHub
 
 📫 **You find me on:**
+
 -🌐 [LinkedIn](https://www.linkedin.com/in/addiellucena94)
 
 
