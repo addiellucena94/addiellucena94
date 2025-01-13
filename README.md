@@ -1,29 +1,30 @@
-Hi there 👋
+**Hi there** 👋
 
-**I'm Addiel Lucena**
+## I'm Addiel Lucena
 
-Based in Cuba, I'm a FullStack Developer passionate about building accessible web apps that users love.
+Full Stack Developer with 3+ years of experience creating scalable web applications using modern technologies like Node.js, React, and Tailwind CSS. Passionate about building intuitive user experiences and solving complex challenges.
 
-⚒️ Skills
-- HTML
-- CSS
-- TAILWIND CSS
-- JAVASCRIPT
-- REACT
-- NODE JS
-- PYTHON
-- FAST API
+- 🌱 I’m currently learning TypeScript
+- 👯 I’m opened to collaborate on open source project
 
-📫 You find me in:
+# Technical Skills
+**Frontend:**
+HTML5, CSS3, JavaScript (ES6+), React, Next.js, Astro JS
+Tailwind CSS, Responsive Design (Mobile-first), Figma
+**Backend:**
+Node.js, Express.js, PostgreSQL, MongoDB, Redis
+APIs RESTful, GraphQL, JWT, OAuth
+**DevOps:**
+Docker, AWS
+Version Control:
+Git, GitHub
 
--👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/addiellucena94)
+📫 **You find me on:**
+-🌐 [LinkedIn](https://www.linkedin.com/in/addiellucena94)
 
--💻 [FrontEnd Mentor](https://www.frontendmentor.io/profile/addiellucena94)
 
 <!--
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -  How to reach me: ...
