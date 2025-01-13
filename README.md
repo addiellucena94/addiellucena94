@@ -22,7 +22,7 @@ APIs RESTful, GraphQL, JWT, OAuth
 
 Docker, AWS
 
-Version Control:
+**Version Control:**
 
 Git, GitHub
 
